@@ -6,7 +6,7 @@
 - 🎶 Musica
 - 🕶 17 Anos
 
-<img height="40" width="40" src="LogoKODAXpurpleComSombra.png">
+<img height="90" width="90" src="LogoKODAXpurpleComSombra.png">
 
 <div>
   <a href="https://github.com/GabrielHild">
