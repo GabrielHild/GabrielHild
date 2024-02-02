@@ -1,4 +1,4 @@
-###HII! Eu sou o Gabriel
+### HII! Eu sou o Gabriel
 
 - 🌱 Estudo Desenvolvimento Web
 - 🎓 Cursando Entra21
@@ -18,6 +18,7 @@
   <img align="center" alt="brn-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="brn-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
+
 ###
 
 <div>
