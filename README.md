@@ -6,10 +6,10 @@
 - 🎶 Musica
 - 🕶 17 Anos
 </div>
-<div display="inline-block">
+<!-- <div display="inline-block">
 <img align="right" height="90" width="90" src="LogoKODAXpurpleComSombra.png">  
 </div>
-
+ -->
 <div>
   <a href="https://github.com/GabrielHild">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHild&show_icons=true&theme=synthwave&include_all_comits=true&cont_private=true"/>
