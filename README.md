@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/GabrielHild">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHild&show_icons=true&theme=tokyonight&include_all_comits=true&cont_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHild&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielHild&show_icons=true&theme=cobalt&include_all_comits=true&cont_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHild&layout=compact&langs_count=16&theme=synthwave"/>
 </div>
 
 <div style="display: infinit_block"><br>
