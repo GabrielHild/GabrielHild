@@ -6,7 +6,7 @@
 - 🎶 Musica
 - 🕶 17 Anos
 - 
-<div display="inline-block">
+<div position="absolute">
 <img align="right" height="90" width="90" src="LogoKODAXpurpleComSombra.png">  
 </div>
  
