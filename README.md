@@ -1,12 +1,14 @@
 ### HII! Eu sou o Gabriel
-
+<div display="inline-block">
 - 🌱 Estudo Desenvolvimento Web
 - 🎓 Cursando Entra21
 - 🎓 Curso concluido Dev The Devs(PUCRS).
 - 🎶 Musica
 - 🕶 17 Anos
-
-<img align="right" height="90" width="90" src="LogoKODAXpurpleComSombra.png">
+</div>
+<div display="inline-block">
+<img align="right" height="90" width="90" src="LogoKODAXpurpleComSombra.png">  
+</div>
 
 <div>
   <a href="https://github.com/GabrielHild">
