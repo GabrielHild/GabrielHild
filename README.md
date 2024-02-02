@@ -6,6 +6,7 @@
 - 🎶 Musica
 - 🕶 17 Anos
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
 
 <div>
   <a href="https://github.com/GabrielHild">
@@ -19,6 +20,8 @@
   <img align="center" alt="brn-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="brn-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
   <img align="center" alt="brn-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  <img align="center" alt="brn-HTML" height="40" width="40" src="<i class="bi bi-bootstrap"></i>"/>
+
 </div>
 
 ###
