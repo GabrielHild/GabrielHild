@@ -1,5 +1,5 @@
 ### HII! Eu sou o Gabriel
-<div display="inline-block">
+<div>
 - 🌱 Estudo Desenvolvimento Web
 - 🎓 Cursando Entra21
 - 🎓 Curso concluido Dev The Devs(PUCRS).
