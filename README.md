@@ -1,7 +1,7 @@
 ### HII! Eu sou o Gabriel
 
 - 🌱 Estudo Desenvolvimento Web
-- 🎓 Cursando Entra21
+- 🎓 Curso concluido Entra21
 - 🎓 Curso concluido Dev The Devs(PUCRS).
 - 🎶 Musica
 - 🕶 17 Anos
